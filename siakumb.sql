@@ -35,14 +35,6 @@ CREATE TABLE `mahasiswa` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
--- Dumping data for table `mahasiswa`
---
-
-INSERT INTO `mahasiswa` (`NPM`, `NamaMahasiswa`, `Password`, `Alamat`) VALUES
-(0x315447466e68524a35514c474d773d, 0x746d485577306c5a686c7164624e553d, '1TGFnhRJ5QLGMw==', 'pm3ezE0MuEc='),
-(0x316a69466e68524a35514c444e773d, 0x736b486d346d685a67484f2f514f5935, '1jiFnhRJ5QLDNw==', 'pm3ezE0MuEc=');
-
---
 -- Indexes for dumped tables
 --
 
